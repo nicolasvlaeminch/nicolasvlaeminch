@@ -9,7 +9,7 @@ Nicolás Vlaeminch.</a></h1>
 
 - 🌍 I live in Argentina, Buenos Aires.
   
-- 🧠 I am currently working on projects with pandas and numpy.
+- 🧠 I am currently working on projects with Pandas and NumPy.
   
 - 📫 How to reach me. **nicolasvlaeminch777@gmail.com**
 
