@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/nicolasvlaeminch" target="blank">
 Nicolás Vlaeminch.</a></h1>
-<h2 align="center">Python Developer.</h2>
+<h2 align="center">Software Developer.</h2>
 
 
 <a target="_blank" align="center">
@@ -19,7 +19,7 @@ Nicolás Vlaeminch.</a></h1>
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/nicolas-vlaeminch-273033253/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/nicolasvlaeminch/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/nicolasvlaeminch">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
